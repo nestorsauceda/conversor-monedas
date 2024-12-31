@@ -91,10 +91,12 @@ $1000.00 MXN --equivale a--> $50.00 USD
 
 ## Capturas de Pantalla
 ### Menú Interactivo
-![menu.jpg](com/aluraprojects/img/menu.jpg)
+![menu.jpg](https://github.com/nestorsauceda/conversor-monedas/blob/main/src/com/aluraprojects/img/menu.jpg?raw=true)
+)
 
 ### Resultado de Conversión
-![resultado.jpg](com/aluraprojects/img/resultado.jpg)
+![resultado.jpg](https://github.com/nestorsauceda/conversor-monedas/blob/main/src/com/aluraprojects/img/resultado.jpg?raw=true)
+)
 
 ---
 
